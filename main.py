@@ -74,4 +74,4 @@ if st.button("Generate Summary"):
 
 # Add a footer
 st.markdown("---")
-st.markdown("Made by Arvin")
+st.markdown("Made by Prasanna")
